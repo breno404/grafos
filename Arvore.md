@@ -37,13 +37,12 @@ Percorre a Árvore visitando um nó e depois seus descendentes (da esquerda para
 
 #### Algoritmo
 
-<code>
-const func = (node) => {
+<code>const func = (node) => {
     if(node != null) console.log(node)
     func(node.children[0])
     func(node.children[1])
-}
-</code>
+}</code>
+
 
 ### Ordem
 
@@ -51,15 +50,13 @@ Percorre a Árvore visitando os descendentes a esquerda, depois o nó e então o
 
 #### Algoritmo
 
-<code>
-const func = (node) => {
+<code>const func = (node) => {
     if(node != null) {
     func(node.children[0])
     console.log(node)
     func(node.children[1])
     }
-}
-</code>
+}</code>
 
 ### Pós-Ordem
 
@@ -67,12 +64,10 @@ Percorre a Árvore visitando os descendentes (da esquerda para a direita), depoi
 
 #### Algoritmo
 
-<code>
-const func = (node) => {
+<code>const func = (node) => {
     if(node != null) {
     func(node.children[0])
     func(node.children[1])
     console.log(node)
     }
-}
-</code>
+}</code>
