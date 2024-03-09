@@ -69,5 +69,5 @@ Percorre a Árvore visitando os descendentes (da esquerda para a direita), depoi
     func(node.children[0])
     func(node.children[1])
     console.log(node)
-    }
-}</code>
+        }
+    }</code>
