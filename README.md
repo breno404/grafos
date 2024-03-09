@@ -30,12 +30,12 @@ A = {
 }
 OU
 
-6A -> {(6A,7A),(6A,7B),(6A,8B)}
-6B -> {(6B,7A),(6B,8A),(6B,8B)}
-7A -> {(6A,7A),(6B,7A)}
-7B -> {(6A,7B),(7B,8A),(7B,8B)}
-8A -> {(6B,8A),(7B,8A),(8A,8B)}
-8B -> {(6A,8B),(6B,8B),(7B,8B)}
+6A -> {(6A,7A),(6A,7B),(6A,8B)}<br>
+6B -> {(6B,7A),(6B,8A),(6B,8B)}<br>
+7A -> {(6A,7A),(6B,7A)}<br>
+7B -> {(6A,7B),(7B,8A),(7B,8B)}<br>
+8A -> {(6B,8A),(7B,8A),(8A,8B)}<br>
+8B -> {(6A,8B),(6B,8B),(7B,8B)}<br>
 
 Nota: As arestas são as ligações desses pontos
 
