@@ -1,16 +1,16 @@
 # Sumário
 
 - Grafo
-- - O que é um Grafo
-- - Grau de uma Vértice
-- - Aplicações
+  - O que é um Grafo
+  - Grau de uma Vértice
+  - Aplicações
 - Terminologia de Grafos
-- - Grafo completo
-- - Grafo Direcionado ou Orientado
-- - Laço
-- - Multigrafo
-- - Grafo Simples
-- - Ordem de um grafo
+  - Grafo completo
+  - Grafo Direcionado ou Orientado
+  - Laço
+  - Multigrafo
+  - Grafo Simples
+  - Ordem de um grafo
 
 # Grafo
 
