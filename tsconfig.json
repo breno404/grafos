@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "lib": ["ES6"],
+    "module": "Node16",
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "moduleResolution": "Node16",
+    "strict": true,
+    "target": "ES6",
+    "baseUrl": ".",
+    "paths": { "@/*": ["./src/*"], "@/lib/*": ["./src/lib/*"] }
+  },
+  "include": ["src/**/*"]
+}
