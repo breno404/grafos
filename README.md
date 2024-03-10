@@ -1,6 +1,6 @@
 # Sumário
 
-- Grafo
+- <a href="/#grafo">Grafo</a>
   - O que é um Grafo
   - Grau de uma Vértice
   - Aplicações
@@ -13,7 +13,7 @@
   - Ordem de um grafo
 - [Árvores](./Arvore.md)
 
-# Grafo
+<h1 id="grafo">Grafo</h1>
 
 ## O que é um Grafo?
 
