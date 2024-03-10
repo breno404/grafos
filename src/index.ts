@@ -1,4 +1,4 @@
-import BinaryTree from './lib/tree/BinaryTree.ts'
+import BinaryTree, { Node } from './lib/tree/BinaryTree.ts'
 
 
 const tree = new BinaryTree({ name: 'A', value: 50 })
@@ -8,6 +8,8 @@ tree.append({ name: 'D', value: 80 })
 tree.append({ name: 'E', value: 75 })
 tree.append({ name: 'F', value: 5 })
 tree.append({ name: 'G', value: 1 })
-const result = tree.getAll()
 
-console.log(result)
+const node = tree.getByValue(30)
+const result = tree.getAll(node as Node)
+
+console.log(node)
