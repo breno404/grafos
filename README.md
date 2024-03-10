@@ -1,9 +1,9 @@
 # Sumário
 
-- <a href="/#grafo">Grafo</a>
-  - O que é um Grafo
-  - Grau de uma Vértice
-  - Aplicações
+- <a href="#grafo">Grafo</a>
+  - <a href="#oqueeumgrafo">O que é um Grafo</a>
+  - <a href="#graudeumavertice">Grau de uma Vértice</a>
+  - <a href="#aplicacoes">Aplicações</a>
 - Terminologia de Grafos
   - Grafo completo
   - Grafo Direcionado ou Orientado
