@@ -11,7 +11,7 @@
   - Multigrafo
   - Grafo Simples
   - Ordem de um grafo
-- [Árvores](../Arvores.md)
+- [Árvores](./Arvore.md)
 
 # Grafo
 
