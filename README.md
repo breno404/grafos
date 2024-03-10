@@ -15,7 +15,7 @@
 
 <h1 id="grafo">Grafo</h1>
 
-## O que é um Grafo?
+<h2 id="oqueeumgrafo">O que é um Grafo?</h2>
 
 Um grafo é um par de conjuntos G = (V,A), em V é o conjunto de vértices e A é o conjunto de arestas.
 
@@ -60,7 +60,7 @@ Número de arestas = |A|
 
 Nesse caso esse grafo possui |V| = 6 e |A| = 9
 
-## Grau de uma Vértice
+<h2 id="graudeumavertice">Grau de uma Vértice</h2>
 
 É o número de vezes que as arestas incidem sobre o vértice, ou seja, o número de arestas que ligam esse vértice a outro.
 
@@ -76,7 +76,7 @@ d(7B) = 3
 d(8A) = 3
 d(8B) = 4
 
-## Aplicações
+<h2 id="aplicacoes">Aplicações</h2>
 
 - Identificar o melhor caminho em uma empresa de logística ou o menor caminho.
 - Identificar como um caminhão de lixo pode passar por um bairro sem repetir um quarteirão
