@@ -18,6 +18,12 @@
   - [Caminho](./README.md/#caminho)
   - [Grafos Conexos/Desconexos](./README.md/#grafos-conexosdesconexos)
 - [Árvores](#árvore)
+  - [Árvore Livre](#árvore-livre)
+  - [Floresta](#floresta)
+  - [Árvore Binária](#árvore-binária)
+  - [Observações](#observações)
+  - [Percursos](#percursos)
+  - [Caso de aplicação](#caso-de-aplicação)
 
 # Árvore
 
