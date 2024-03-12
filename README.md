@@ -1,9 +1,9 @@
 # Sumário
 
 - <a href="#grafo">Grafo</a>
-  - <a href="#oqueeumgrafo">O que é um Grafo</a>
-  - <a href="#graudeumavertice">Grau de uma Vértice</a>
-  - <a href="#aplicacoes">Aplicações</a>
+  - <a href="#o-que-é-um-grafo">O que é um Grafo</a>
+  - <a href="#grau-de-uma-vértice">Grau de uma Vértice</a>
+  - <a href="#aplicações">Aplicações</a>
 - Terminologia de Grafos
   - Grafo completo
   - Grafo Direcionado ou Orientado
@@ -15,7 +15,7 @@
 
 # Grafo
 
-<h2 id="oqueeumgrafo">O que é um Grafo?</h2>
+## O que é um Grafo?
 
 Um grafo é um par de conjuntos G = (V,A), em V é o conjunto de vértices e A é o conjunto de arestas.
 
