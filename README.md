@@ -17,7 +17,13 @@
   - [Trilha](#trilha)
   - [Caminho](#caminho)
   - [Grafos Conexos/Desconexos](#grafos-conexosdesconexos)
-- [Árvores](./Arvore.md)
+- [Árvores](./Arvore.md/#árvore)
+  - [Árvore Livre](./Arvore.md/#árvore-livre)
+  - [Floresta](./Arvore.md/#floresta)
+  - [Árvore Binária](./Arvore.md/#árvore-binária)
+  - [Observações](./Arvore.md/#observações)
+  - [Percursos](./Arvore.md/#percursos)
+  - [Caso de aplicação](./Arvore.md/#caso-de-aplicação)
 
 # Grafo
 
