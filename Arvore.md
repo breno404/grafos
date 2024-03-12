@@ -1,3 +1,24 @@
+# Sumário
+
+- [Grafo](./README.md/#grafo)
+  - [O que é um Grafo](./README.md/#o-que-é-um-grafo)
+  - [Grau de uma Vértice](./README.md/#grau-de-uma-vértice)
+  - [Aplicações](./README.md/#aplicações)
+- [Terminologia de Grafos](./README.md/#terminologia-de-grafos)
+  - [Grafo completo](./README.md/#grafo-completo)
+  - [Grafo Direcionado ou Orientado](./README.md/#grafo-direcionado-ou-orientado)
+  - [Laço](./README.md/#laço)
+  - [Multigrafo](./README.md/#multigrafo)
+  - [Grafo Simples](./README.md/#grafo-simples)
+  - [Ordem de um grafo](./README.md/#ordem-de-um-grafo)
+  - [Sobre os Graus dos Vértices de um Grafo](./README.md/#sobre-os-graus-dos-vértices-de-um-grafo)
+  - [Subgrafo](./README.md/#subgrafo)
+  - [Passeio](./README.md/#passeio)
+  - [Trilha](./README.md/#trilha)
+  - [Caminho](./README.md/#caminho)
+  - [Grafos Conexos/Desconexos](./README.md/#grafos-conexosdesconexos)
+- [Árvores](#árvore)
+
 # Árvore
 
 <p>Uma Árvore nada mais é do que um grafo conexo sem ciclos, com um vértice (nó) especial, chamado raiz.</p>
