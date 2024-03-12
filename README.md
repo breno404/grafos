@@ -1,16 +1,18 @@
 # Sumário
 
-- <a href="#grafo">Grafo</a>
-  - <a href="#o-que-é-um-grafo">O que é um Grafo</a>
-  - <a href="#grau-de-uma-vértice">Grau de uma Vértice</a>
-  - <a href="#aplicações">Aplicações</a>
+- [Grafo](#grafo)
+  - [O que é um Grafo](#o-que-é-um-grafo)
+  - [Grau de uma Vértice](#grau-de-uma-vértice)
+  - [Aplicações](#aplicações)
 - [Terminologia de Grafos](#terminologia-de-grafos)
-  - Grafo completo
-  - Grafo Direcionado ou Orientado
-  - Laço
-  - Multigrafo
-  - Grafo Simples
-  - Ordem de um grafo
+  - [Grafo completo](#Grafo-completo)
+  - [Grafo Direcionado ou Orientado](#Grafo-Direcionado-ou-Orientado)
+  - [Laço](#Laço)
+  - [Multigrafo](#Multigrafo)
+  - [Grafo Simples](#Grafo-Simples)
+  - [Ordem de um grafo](#Ordem-de-um-grafo)
+  - [Sobre os Graus dos Vértices de um Grafo](#Sobre-os-Graus-dos-Vértices-de-um-Grafo)
+  - [Subgrafo](#Subgrafo)
 - [Árvores](./Arvore.md)
 
 # Grafo
@@ -60,7 +62,7 @@ Número de arestas = |A|
 
 Nesse caso esse grafo possui |V| = 6 e |A| = 9
 
-<h2 id="graudeumavertice">Grau de uma Vértice</h2>
+## Grau de uma Vértice
 
 É o número de vezes que as arestas incidem sobre o vértice, ou seja, o número de arestas que ligam esse vértice a outro.
 
@@ -76,7 +78,7 @@ d(7B) = 3
 d(8A) = 3
 d(8B) = 4
 
-<h2 id="aplicacoes">Aplicações</h2>
+## Aplicações
 
 - Identificar o melhor caminho em uma empresa de logística ou o menor caminho.
 - Identificar como um caminhão de lixo pode passar por um bairro sem repetir um quarteirão
