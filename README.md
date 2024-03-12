@@ -16,7 +16,7 @@
   - [Passeio](#passeio)
   - [Trilha](#trilha)
   - [Caminho](#caminho)
-  - [Grafos Conexos/Desconexos](##grafos-conexosdesconexos)
+  - [Grafos Conexos/Desconexos](#grafos-conexosdesconexos)
 - [Árvores](./Arvore.md)
 
 # Grafo
