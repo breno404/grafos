@@ -13,6 +13,10 @@
   - [Ordem de um grafo](#Ordem-de-um-grafo)
   - [Sobre os Graus dos Vértices de um Grafo](#Sobre-os-Graus-dos-Vértices-de-um-Grafo)
   - [Subgrafo](#Subgrafo)
+  - [Passeio](#Passeio)
+  - [Trilha](#Trilha)
+  - [Caminho](#Caminho)
+  - [Grafos Conexos/Desconexos](#Grafos-Conexos/Desconexos)
 - [Árvores](./Arvore.md)
 
 # Grafo
