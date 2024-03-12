@@ -13,7 +13,7 @@
   - Ordem de um grafo
 - [Árvores](./Arvore.md)
 
-<h1 id="grafo">Grafo</h1>
+# Grafo
 
 <h2 id="oqueeumgrafo">O que é um Grafo?</h2>
 
