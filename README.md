@@ -4,7 +4,7 @@
   - <a href="#o-que-é-um-grafo">O que é um Grafo</a>
   - <a href="#grau-de-uma-vértice">Grau de uma Vértice</a>
   - <a href="#aplicações">Aplicações</a>
-- Terminologia de Grafos
+- [Terminologia de Grafos](#terminologia-de-grafos)
   - Grafo completo
   - Grafo Direcionado ou Orientado
   - Laço
