@@ -210,3 +210,5 @@ s é o comprimento do passeio.
 
 Um grafo é conexo se existe um caminho entre qualquer par de vértices.
 Um grafo é desconexo quando não existe um caminho entre qualquer par de vértices.
+
+Anterior | [Próximo](./Arvore.md/#árvore)
